@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb

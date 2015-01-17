@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\03HexadecimalFormat\bin\Debug\03HexadecimalFormat.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\03HexadecimalFormat\bin\Debug\03HexadecimalFormat.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\03HexadecimalFormat\bin\Debug\03HexadecimalFormat.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\03HexadecimalFormat\obj\Debug\03HexadecimalFormat.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\03HexadecimalFormat\obj\Debug\03HexadecimalFormat.pdb

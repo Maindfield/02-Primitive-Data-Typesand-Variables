@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\05BooleanVariable\bin\Debug\05BooleanVariable.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Solution1\05BooleanVariable\obj\Debug\05BooleanVariable.pdb
