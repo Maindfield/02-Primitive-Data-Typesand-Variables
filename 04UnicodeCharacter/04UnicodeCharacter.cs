@@ -13,7 +13,7 @@ namespace UnicodeCharacter
         static void Main()
         {
             char variable = '\u002A';
-            Console.WriteLine(variable);
+            Console.WriteLine("The caharcter whit Unicde 42 is: " + variable);
         }
     }
 }

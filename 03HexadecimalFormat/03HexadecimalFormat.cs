@@ -13,7 +13,7 @@ namespace HexadecimalFormat
         static void Main()
         {
             int variable = 0xFE;
-            Console.WriteLine(variable);
+            Console.WriteLine("The number whit hexadecimal value FE is: " + variable);
         }
     }
 }

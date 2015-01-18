@@ -19,7 +19,7 @@ namespace DeclareVariables
             int fourthNumber  = 52130;
             ulong fifthNumber = 4825932;
 
-            Console.WriteLine("byte is = {0}\n sbyte is = {1}\n short is = {2}\n int is = {3}\n ulong is = {4}\n",
+            Console.WriteLine(" byte is = {0}\n sbyte is = {1}\n short is = {2}\n int is = {3}\n ulong is = {4}\n",
                                firstNumber, secondNumber, thirdNumber, fourthNumber, fifthNumber);
         }
     }

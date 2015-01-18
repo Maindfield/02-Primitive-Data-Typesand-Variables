@@ -17,7 +17,7 @@ namespace FloatOrDouble
             double thirdNumber = 34.567839023;
             double fourthNumber = 8923.1234857;
 
-            Console.WriteLine("{0} is float\n {1} is float\n {2} is double\n {3} is double\n",
+            Console.WriteLine(" {0} is float\n {1} is float\n {2} is double\n {3} is double\n",
                                firstNumber, secondNumber, thirdNumber, fourthNumber);
                         
         }
