@@ -3,3 +3,6 @@ c:\users\georgi\documents\visual studio 2013\Projects\Solution1\01DeclareVariabl
 c:\users\georgi\documents\visual studio 2013\Projects\Solution1\01DeclareVariables\bin\Debug\01DeclareVariables.pdb
 c:\users\georgi\documents\visual studio 2013\Projects\Solution1\01DeclareVariables\obj\Debug\01DeclareVariables.exe
 c:\users\georgi\documents\visual studio 2013\Projects\Solution1\01DeclareVariables\obj\Debug\01DeclareVariables.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\PrimitiveDataTypeAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\PrimitiveDataTypeAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\PrimitiveDataTypeAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.pdb
