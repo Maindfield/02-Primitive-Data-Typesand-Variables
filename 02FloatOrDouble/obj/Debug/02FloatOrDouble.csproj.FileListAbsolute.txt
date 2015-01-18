@@ -3,3 +3,4 @@ c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\
 c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
 c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
 c:\users\georgi\documents\visual studio 2013\Projects\Solution1\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Solution1\02FloatOrDouble\obj\Debug\02FloatOrDouble.csprojResolveAssemblyReference.cache
